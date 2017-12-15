@@ -11,10 +11,12 @@ Kimaya Desai - 820884799 - kimaya.desai@gmail.com
 The following models are studied:
 
 
-## Presentation Walkthrough
+## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='https://github.com/raghavnyati90/Yelp-Dataset-Classification-/blob/master/yelp_ml.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Link to our presentation: 
 https://prezi.com/view/jfrEzftylAF7HE6kbLSR/
 
 
