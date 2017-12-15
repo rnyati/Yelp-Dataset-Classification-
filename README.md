@@ -11,13 +11,12 @@ Kimaya Desai - 820884799 - kimaya.desai@gmail.com
 The following models are studied:
 
 
-## Video Walkthrough
+## Presentation Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://prezi.com/view/jfrEzftylAF7HE6kbLSR/' title='Video Walkthrough' width='' alt='Presentation Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
