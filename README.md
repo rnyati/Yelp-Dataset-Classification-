@@ -15,7 +15,7 @@ The following models are studied:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://prezi.com/view/jfrEzftylAF7HE6kbLSR/' title='Video Walkthrough' width='' alt='Presentation Walkthrough' />
+https://prezi.com/view/jfrEzftylAF7HE6kbLSR/
 
 
 ## Notes
